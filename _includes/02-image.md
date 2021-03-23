@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![portrait](https://dublab-api-1.s3.amazonaws.com/uploads/2018/03/laurent-fintoni.jpg)
